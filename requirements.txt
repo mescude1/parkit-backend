@@ -1,0 +1,24 @@
+Flask
+Flask-JWT-Extended
+python-dotenv
+flask-migrate
+sqlalchemy
+psycopg2-binary
+Flask-SQLAlchemy
+Flask-Migrate
+flask-login
+flask-wtf
+geopy
+
+# Linting & code quality
+flake8>=7.0.0
+flake8-bugbear>=24.0.0
+isort>=5.13.0
+
+Flask-Mail>=0.9.1
+flask-cors
+
+# Testing
+pytest
+coverage
+alchemy-mock
